@@ -19,6 +19,6 @@ Vous pouvez y accéder en vous rendant sur cet URL : https://lucasg0ld.github.io
 * FontAwesome
 
 ## Comment utiliser
-1. Cloner ce repository sur votre ordinateur en utilisant la commande git clone https://github.com/Booki.git  
+1. Cloner ce repository sur votre ordinateur en utilisant la commande git clone https://github.com/LucasG0ld/Booki.git  
 2. Ouvrir le fichier index.html dans votre navigateur pour voir la page d'accueil.
 3. Modifier le code en fonction de vos besoins et de vos préférences.
